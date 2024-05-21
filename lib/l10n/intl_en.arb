@@ -1,0 +1,20 @@
+{
+  "testTask": "Test task",
+  "home": "Home",
+  "geolocation": "Geolocation",
+  "tables": "Tables",
+  "thanksForRatingOurApp": "Thanks for rating our app!",
+  "thanksForSharingOurApp": "Thanks for sharing our app!",
+  "thanksForContactingUs": "Thanks for contacting us!",
+  "rateApp": "Rate App",
+  "shareApp": "Share App",
+  "contactUs": "Contact Us",
+  "country": "Country: {country}",
+  "regionName": "Region: {regionName}",
+  "city": "City: {city}",
+  "lat": "Latitude: {lat}",
+  "lon": "Longitude: {lon}",
+  "timezone": "Timezone: {timezone}",
+  "failedToLoadLocation": "Failed to load location",
+  "reload": "Reload"
+}

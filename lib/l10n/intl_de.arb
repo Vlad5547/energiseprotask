@@ -1,0 +1,20 @@
+{
+  "testTask": "Testaufgabe",
+  "home": "Heim",
+  "geolocation": "Geolokalisierung",
+  "tables": "Tische",
+  "thanksForRatingOurApp": "Vielen Dank für die Bewertung unserer App!",
+  "thanksForSharingOurApp": "Vielen Dank, dass Sie unsere App geteilt haben!",
+  "thanksForContactingUs": "Danke, dass sie uns kontaktiert haben!",
+  "rateApp": "Bewertungs App",
+  "shareApp": "App teilen",
+  "contactUs": "Kontaktiere uns",
+  "country": "Land: {country}",
+  "regionName": "Region: {regionName}",
+  "city": "Stadt: {city}",
+  "lat": "Breite: {lat}",
+  "lon": "Längengrad: {lon}",
+  "timezone": "Zeitzone: {timezone}",
+  "failedToLoadLocation": "Standort konnte nicht geladen werden",
+  "reload": "Neu laden"
+}
